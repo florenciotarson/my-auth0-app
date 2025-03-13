@@ -16,7 +16,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Structure
 
-```
 my-auth0-app/
 ├── public/
 ├── src/
@@ -28,7 +27,6 @@ my-auth0-app/
 ├── package.json
 ├── README.md  <-- (this file)
 └── yarn.lock (or package-lock.json)
-```
 
 ### Notable Files
 
